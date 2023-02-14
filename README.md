@@ -1,6 +1,7 @@
 # ChatGPT技术交流
 
 ## 什么是ChatGPT
+* 相信来看这个Repo的朋友都知道ChatGPT，那就不多介绍了 ^_^
 
 ## 如何注册
 
@@ -19,5 +20,7 @@
 ## 开始体验
 
 ### 方式1：ChatGPT官网
+* [ChatGPT](https://chat.openai.com/chat) （需要使用海外IP访问）
 
 ### 方式2：iOS中快捷方式
+* [iOS快捷指令](https://kkgo1999.top/redirect/gpt_shortcut.html)   （如遇问题可参考[B站这个视频](https://b23.tv/rUA9DLh])）
