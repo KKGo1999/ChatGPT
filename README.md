@@ -24,3 +24,13 @@
 
 ### 方式2：iOS中快捷方式
 * [iOS快捷指令](https://kkgo1999.top/redirect/gpt_shortcut.html)   （如遇问题可参考[B站这个视频](https://b23.tv/rUA9DLh])）
+
+
+# 如果你还是没搞定，请看这里
+你有三个选择：
+1. 直接放弃，或
+1. 寻求外援，比如找本博主，入微信群交流（微信ID：KKGo1999），或
+1. 体验新版的微软必应（Bing）搜索
+  * 新版Bing有一个非常类似的聊天界面，背后的技术也是由ChatGPT提供。
+  * 可以在[这里申请新版Bing](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)的后补，过几天你就会收到一个通知你成功的邮件。
+  * 如果你想了解ChatGPT与Bing Chat的区别，可参考[Bing Chat的实测体验（B站）](https://www.bilibili.com/video/BV168411T7bL/)。
