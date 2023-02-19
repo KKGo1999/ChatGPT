@@ -1,4 +1,4 @@
-# ChatGPT技术交流
+# ChatGPT保姆教程
 
 ## 什么是ChatGPT
 * 相信来看这个Repo的朋友都知道ChatGPT，那就不多介绍了 ^_^
