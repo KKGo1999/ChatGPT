@@ -7,6 +7,7 @@
 
 ### 1. 需要一个合理的上网环境
 * 中国、香港、俄罗斯等地区的IP是不支持的
+* 个人正在使用[Renzhe.Cloud](https://renzhe.cloud/auth/register?code=a7JU)，还比较稳定，包月最低CNY 12元
 
 ### 2. 准备邮箱
 * 任何可以收到邮件的邮箱都可以，QQ邮箱、Gmail等都行
@@ -20,7 +21,7 @@
 ## 开始体验
 
 ### 方式1：ChatGPT官网
-* [ChatGPT](https://chat.openai.com/chat) （需要使用海外IP访问）
+* [ChatGPT](https://chat.openai.com/chat) （需要使用海外IP访问，推荐隐私模式）
 
 #### [高级用户] 开通ChatGPT Plus
 * 月份20刀，有很多好处，例如速度更快、高可用等。
