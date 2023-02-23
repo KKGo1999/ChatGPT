@@ -38,3 +38,9 @@
   * 可以在[这里申请新版Bing](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)的后补，过几天你就会收到一个通知你成功的邮件。
   * 如果你想了解ChatGPT与Bing Chat的区别，可参考[Bing Chat的实测体验（B站）](https://www.bilibili.com/video/BV168411T7bL/)。
 
+# Q&A
+### 遇到“Access Denied, you do not have access to chat.openai.com"
+* 更换全局代理，换到国外的IP（非港澳）
+* 清理本地的网页缓存
+  * 切换到浏览器的 private mode (隐私模式)
+  * 在你浏览器的地址栏输入```javascript：```冒号后面复制以下 ```window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.startsWith(‘@@auth0spajs’)))```，回车即可
