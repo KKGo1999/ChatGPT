@@ -28,7 +28,7 @@
 * 但不支持内地信用卡支持，目前亲测成功的是用[Depay](https://depay.depay.one/web-app/register-h5?invitCode=894306&lang=zh-cn) (iOS请用海外地区App Store下载。欢迎使用我的Depay推荐码：894306）
 
 ### 方式2：iOS中快捷方式
-* [iOS快捷指令](https://kkgo1999.top/redirect/gpt_shortcut.html)（如遇问题可参考[B站这个视频](https://www.bilibili.com/video/BV1vD4y1n79F/))
+* [iOS快捷指令](https://kkgo1999.top/redirect/gpt_shortcut.html)（如遇问题可参考[B站这个视频](https://www.bilibili.com/video/BV1vD4y1n79F/)）
 
 # 如果你还没搞定，你还有三个选择
 1. 直接放弃，或
