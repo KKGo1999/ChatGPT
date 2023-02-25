@@ -1,4 +1,9 @@
 # ChatGPT保姆教程
+[![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://github.com/KKGo1999) &nbsp;
+[![](https://shields.io/twitter/follow/kkgo1999?label=Follow)](https://twitter.com/kkgo1999) &nbsp;
+[![](https://shields.io/youtube/channel/subscribers/UCx7EyuAEFfga6cTYABxlaCQ)](https://youtube.com/@KKGo1999) &nbsp;
+[![](https://img.shields.io/badge/bilibili-哔哩哔哩-critical)](https://space.bilibili.com/406715814) &nbsp;
+[![](https://img.shields.io/badge/WeChat-微信-brightgreen)](https://www.kkgo1999.top/img/kkgo1999.wechat.jpg)
 
 ## 什么是ChatGPT
 * 相信来看这个Repo的朋友都知道ChatGPT，那就不多介绍了 ^_^
@@ -30,9 +35,8 @@
 ### 方式2：iOS中快捷方式
 * [iOS快捷指令](https://kkgo1999.top/redirect/gpt_shortcut.html)（如遇问题可参考[B站这个视频](https://www.bilibili.com/video/BV1vD4y1n79F/)）
 
-# 如果你还没搞定，你还有三个选择
-1. 直接放弃，或
-1. 寻求外援，比如找本博主，入微信群交流（微信ID：KKGo1999），或
+# 如果你还没搞定，你还有如下选择
+1. 寻求外援，入微信群交流 [![](https://img.shields.io/badge/WeChat-微信-brightgreen)](https://www.kkgo1999.top/img/kkgo1999.wechat.jpg)
 1. 体验新版的微软必应（Bing）搜索
   * 新版Bing有一个非常类似的聊天界面，背后的技术也是由ChatGPT提供。
   * 可以在[这里申请新版Bing](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)的后补，过几天你就会收到一个通知你成功的邮件。
