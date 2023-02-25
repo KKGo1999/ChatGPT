@@ -44,3 +44,6 @@
 * 清理本地的网页缓存
   * 切换到浏览器的 private mode (隐私模式)
   * 在你浏览器的地址栏输入```javascript：```冒号后面复制以下 ```window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.startsWith(‘@@auth0spajs’)))```，回车即可
+  
+### 遇到使用iOS快捷方式没有任何反应
+* 请先检查自己的OpenAI API Key的账户是否有Credits。具体办法为登录https://platform.openai.com/ ，查看Free Trial usage里是否有credits。
