@@ -45,7 +45,10 @@
   * 如果你想了解ChatGPT与Bing Chat的区别，可参考[Bing Chat的实测体验（B站）](https://www.bilibili.com/video/BV168411T7bL/)。
 
 # Q&A
-### 遇到“Access Denied, you do not have access to chat.openai.com"
+### 1. 如何搭建一个基于ChatGPT的微信聊天机器人？
+* 目前最安全的方案还是[基于Chrome插件+网页版微信登录的方式](https://www.youtube.com/watch?v=5AC5EywcB6w)，桌面或手机登录的方案非常容易被封禁，不建议尝试
+
+### 2. 遇到“Access Denied, you do not have access to chat.openai.com"
 * 更换全局代理，换到国外的IP（非港澳）
 * 清理本地的网页缓存
   * 切换到浏览器的 private mode (隐私模式)
