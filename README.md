@@ -1,9 +1,11 @@
 # ChatGPT保姆教程
 [![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://github.com/KKGo1999) &nbsp;
 [![](https://shields.io/twitter/follow/kkgo1999?label=Follow)](https://twitter.com/kkgo1999) &nbsp;
-[![](https://shields.io/youtube/channel/subscribers/UCx7EyuAEFfga6cTYABxlaCQ)](https://youtube.com/@KKGo1999) &nbsp;
-[![](https://img.shields.io/badge/bilibili-哔哩哔哩-critical)](https://space.bilibili.com/406715814) &nbsp;
-[![](https://img.shields.io/badge/WeChat-微信-brightgreen)](https://www.kkgo1999.top/img/kkgo1999.wechat.jpg)
+[![](https://img.shields.io/badge/Telegram--green?style=social&logo=telegram)](https://t.me/+kS-jBrht-ZRiZTU1) &nbsp;
+[![](https://img.shields.io/badge/WeChat%20%E5%BE%AE%E4%BF%A1--green?style=social&logo=wechat)](https://www.kkgo1999.top/img/kkgo1999.wechat.jpg) &nbsp;
+[![](https://img.shields.io/badge/Youtube--green?style=social&logo=youtube)](https://youtube.com/@KKGo1999) &nbsp;
+[![](https://img.shields.io/badge/Bilibili%20B%E7%AB%99--green?style=social&logo=bilibili)](https://space.bilibili.com/406715814) &nbsp;
+
 
 ## 什么是ChatGPT
 * 相信来看这个Repo的朋友都知道ChatGPT，那就不多介绍了 ^_^
