@@ -55,4 +55,5 @@
   * 在你浏览器的地址栏输入```javascript：```冒号后面复制以下 ```window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.startsWith(‘@@auth0spajs’)))```，回车即可
   
 ### 遇到使用iOS快捷方式没有任何反应
-* 请先检查自己的OpenAI API Key的账户是否有Credits。具体办法为登录https://platform.openai.com/ ，查看Free Trial usage里是否有credits。
+* 如何创建Key：登录https://platform.openai.com/ 后，在 https://platform.openai.com/account/api-keys 这个页面 -> Create new secret key。
+* 请先检查账户是否有Credits：登录https://platform.openai.com/ ，在https://platform.openai.com/account/usage 查看credits情况。
